@@ -36,3 +36,19 @@ bye
 - Better conversational logic
 - More commands
 - GUI version
+
+  ---
+
+## Project Screenshots
+
+### Greeting Feature
+![Greeting](screenshots/greeting.png)
+
+### Joke Feature
+![Joke](screenshots/joke.png)
+
+### Random Question
+![RandomQuestion](screenshots/randomquestion.png)
+
+### Time Feature
+![Time](screenshots/time.png)
